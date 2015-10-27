@@ -1,1 +1,1 @@
-module.exports = 'beef';
+module.exports = 'minced beef';
